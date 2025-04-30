@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mike-4-prog
 - 👀 I’m interested and enthusiastic about Data world,deriving insights from data, helping organisations optimize decisions and writing technical contents.
-- 🌱 I’m currently building projects using python, SQL etc.
+- 🌱 Profficient in using tools and building projects using python, SQL, Excel, and PowerBI.
 - 💞️ I’m looking to collaborate with organisations and individuals, levearging on the importance of data to improve businesses and service delivery.
 - 📫 How to reach me 1) X: @Mikemandy7, linkedIn: Michael Uzukwu.
 - 
